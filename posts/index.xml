@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Posts on Ettore&#39;s blog</title>
-    <link>http://example.org/posts/</link>
+    <link>https://oteret.github.io/posts/</link>
     <description>Recent content in Posts on Ettore&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://oteret.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,16 +24,16 @@
       
       <item>
         <title>Growing Neural Cellular Automata</title>
-        <link>http://example.org/posts/growing-ca/</link>
+        <link>https://oteret.github.io/posts/growing-ca/</link>
         <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
         <author>etr@google.com (Ettore Randazzo)</author>
         <atom:modified>Thu, 18 Jun 2020 00:00:00 +0000</atom:modified>
-        <guid>http://example.org/posts/growing-ca/</guid>
+        <guid>https://oteret.github.io/posts/growing-ca/</guid>
         <description>Work done at Google, in collaboration with Alexander Mordvintsev, Eyvind Niklasson, and Michael Levin.
 See the Distill article.</description>
         
         <dc:creator>Ettore Randazzo</dc:creator>
-        <media:content url="http://example.org/images/growing_ca/growing_ca_thumbnail.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://oteret.github.io/images/growing_ca/growing_ca_thumbnail.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

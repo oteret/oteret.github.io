@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Ettore&#39;s blog</title>
-    <link>http://example.org/series/</link>
+    <link>https://oteret.github.io/series/</link>
     <description>Recent content in Series on Ettore&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>etr@google.com (Ettore Randazzo)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://oteret.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     
