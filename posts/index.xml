@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Posts on Ettore&#39;s blog</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Ettore&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>etr@google.com (Ettore Randazzo)</managingEditor>
+    <webMaster>etr@google.com (Ettore Randazzo)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Growing Neural Cellular Automata</title>
+        <link>http://example.org/posts/growing-ca/</link>
+        <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+        <author>etr@google.com (Ettore Randazzo)</author>
+        <atom:modified>Thu, 18 Jun 2020 00:00:00 +0000</atom:modified>
+        <guid>http://example.org/posts/growing-ca/</guid>
+        <description>Work done at Google, in collaboration with Alexander Mordvintsev, Eyvind Niklasson, and Michael Levin.
+See the Distill article.</description>
+        
+        <dc:creator>Ettore Randazzo</dc:creator>
+        <media:content url="http://example.org/images/growing_ca/growing_ca_thumbnail.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
