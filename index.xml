@@ -14,7 +14,7 @@
     <managingEditor>etr@google.com (Ettore Randazzo)</managingEditor>
     <webMaster>etr@google.com (Ettore Randazzo)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://oteret.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -44,11 +44,32 @@
 
       
       <item>
+        <title>MPLP: Learning a Message Passing Learning Protocol</title>
+        <link>https://oteret.github.io/posts/mplp/</link>
+        <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+        <author>etr@google.com (Ettore Randazzo)</author>
+        <atom:modified>Fri, 03 Jul 2020 00:00:00 +0000</atom:modified>
+        <guid>https://oteret.github.io/posts/mplp/</guid>
+        <description>Work done at Google, in collaboration with Eyvind Niklasson and Alexander Mordvintsev.
+Meta learning a learning protocol that can be used instead of SGD, Adam, etc, to train feed-forward neural networks. At least, in theory.
+See the Arxiv preprint and the code base. The code base contains colabs that show how to use it!
+My first first author work. Very fundamental in nature and small in scope. Still, it is 9 pages long.</description>
+        
+        <dc:creator>Ettore Randazzo</dc:creator>
+        <media:content url="https://oteret.github.io/images/mplp/mplp_thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Growing Neural Cellular Automata</title>
         <link>https://oteret.github.io/posts/growing-ca/</link>
-        <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
         <author>etr@google.com (Ettore Randazzo)</author>
-        <atom:modified>Thu, 18 Jun 2020 00:00:00 +0000</atom:modified>
+        <atom:modified>Tue, 11 Feb 2020 00:00:00 +0000</atom:modified>
         <guid>https://oteret.github.io/posts/growing-ca/</guid>
         <description>Work done at Google, in collaboration with Alexander Mordvintsev, Eyvind Niklasson, and Michael Levin.
 See the Distill article.</description>
