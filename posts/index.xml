@@ -14,13 +14,33 @@
     <managingEditor>etr@google.com (Ettore Randazzo)</managingEditor>
     <webMaster>etr@google.com (Ettore Randazzo)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 May 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://oteret.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Adversarial Reprogramming of Neural Cellular Automata</title>
+        <link>https://oteret.github.io/posts/adversarial-ca/</link>
+        <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+        <author>etr@google.com (Ettore Randazzo)</author>
+        <atom:modified>Fri, 07 May 2021 00:00:00 +0000</atom:modified>
+        <guid>https://oteret.github.io/posts/adversarial-ca/</guid>
+        <description>Work done at Google, in collaboration with Alexander Mordvintsev, Eyvind Niklasson and Michael Levin.
+Hijacking the behaviour of pretrained Neural CA with adversarial attacks.
+See the Distill article.</description>
+        
+        <dc:creator>Ettore Randazzo</dc:creator>
+        <media:content url="https://oteret.github.io/images/adversarial_ca/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Self-classifying MNIST Digits</title>
